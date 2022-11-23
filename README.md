@@ -1,6 +1,6 @@
-Hello, I'm Vinicius
+# Hello, I'm Vinicius
 
-I'm a Front-End developer focused on Javascript | HTML | CSS | React.js | Git<br><br>Currently, I'm dedicating myself a lot to learning programming for career transition.<br><br>Interests:<br><br>Javascript | ReactJS | JS Frameworks<br><br>Portfolio: https://viniciusmantovani.netlify.app/<br><br>LinkedIn: https://www.linkedin.com/in/vmantovani7/?locale=en_US
+## I'm a Front-End developer focused on Javascript | HTML | CSS | React.js | Git<br><br>Currently, I'm dedicating myself a lot to learning programming for career transition.<br><br>Interests:<br><br>Javascript | ReactJS | JS Frameworks<br><br>Portfolio: https://viniciusmantovani.netlify.app/<br><br>LinkedIn: https://www.linkedin.com/in/vmantovani7/?locale=en_US
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
