@@ -18,8 +18,8 @@
 # 📊 GitHub Stats:
 <div align="center">
   <a href="https://github.com/vmantovani">
-  <img width='450em' height="180em" src="https://github-readme-stats.vercel.app/api?username=vmantovani&show_icons=true&theme=nightowl&include_all_commits=false&count_private=false"/>
-  <img width='450em' height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmantovani&layout=compact&langs_count=7&theme=nightowl"/>
+  <img width='400em' height="180em" src="https://github-readme-stats.vercel.app/api?username=vmantovani&show_icons=true&theme=nightowl&include_all_commits=false&count_private=false"/>
+  <img width='400em' height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmantovani&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
 
 ---
