@@ -1,6 +1,6 @@
 # Hello, I'm Vinicius
 
-## I'm a Front-End developer focused on Javascript | HTML | CSS | React.js | Git<br><br>Currently, I'm dedicating myself a lot to learning programming for career transition.<br><br>Interests:<br><br>Javascript | ReactJS | JS Frameworks<br><br>Portfolio: https://viniciusmantovani.netlify.app/<br><br>LinkedIn: https://www.linkedin.com/in/vmantovani7/?locale=en_US
+ I'm a Front-End developer focused on Javascript | HTML | CSS | React.js | Git<br><br>Currently, I'm dedicating myself a lot to learning programming for career transition.<br><br>Interests:<br><br>Javascript | ReactJS | JS Frameworks<br><br>Portfolio: https://viniciusmantovani.netlify.app/<br><br>LinkedIn: https://www.linkedin.com/in/vmantovani7/?locale=en_US
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -18,8 +18,8 @@
 # 📊 GitHub Stats:
 <div align="center">
   <a href="https://github.com/vmantovani">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vmantovani&show_icons=true&theme=nightowl&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmantovani&layout=compact&langs_count=7&theme=nightowl"/>
+  <img width='450em' height="180em" src="https://github-readme-stats.vercel.app/api?username=vmantovani&show_icons=true&theme=nightowl&include_all_commits=false&count_private=false"/>
+  <img width='450em' height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmantovani&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
 
 ---
